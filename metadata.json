@@ -1,0 +1,12 @@
+{
+  "name": "ConnectRoom",
+  "description": "Real-Time Communication & Collaboration Platform for seamless video chat, screen sharing, and instant messaging between students.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
